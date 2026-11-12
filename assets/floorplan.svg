@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1264"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
-   sodipodi:docname="floor_plan.svg"
+   sodipodi:docname="floorplan.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="153.39286"
-     inkscape:cy="144.91071"
+     inkscape:zoom="1.979899"
+     inkscape:cx="269.45819"
+     inkscape:cy="373.5039"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -186,7 +186,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="display:inline;fill:#ececec;stroke:#000000;stroke-width:0.58784723px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:inline;fill:#f9f9f9;stroke:#000000;stroke-width:0.58784723px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 161.72152,24.377569 h -19.09448 l -2.51935,2.939225"
        id="path4748"
        inkscape:connector-curvature="0"
@@ -215,7 +215,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="display:inline;fill:#ececec;stroke:#000000;stroke-width:0.58784723px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:inline;fill:#f9f9f9;stroke:#000000;stroke-width:0.58784723px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 66.62681,27.316794 H 62.009899 V 5.424946"
        id="path4758"
        inkscape:connector-curvature="0"
@@ -457,33 +457,286 @@
        d="m 28.956927,89.040793 h 21.294116 l 0.03092,15.036777 H 29.053069 Z"
        id="path13539"
        inkscape:connector-curvature="0" />
-   </g>
-   <style>.office{fill:none;stroke:none;stroke-width:1}.selected{fill:#eba904}</style>
+    <style
+       id="style1">.office{fill:#none;stroke:none;stroke-width:1}.selected{fill:#eba904}</style>
     <rect
-       style="fill:none;stroke:none;stroke-width:1"
        id="L2044"
        class="office"
        width="14.504765"
        height="39.59301"
        x="79.309433"
        y="35.549557"
-       inkscape:label="#L2044" />
+       inkscape:label="#L2044"
+       style="fill:none" />
     <rect
-       style="fill:none;stroke:none;stroke-width:1"
        id="L2041"
        class="office"
        width="16.867115"
        height="21.308413"
        x="61.96978"
        y="5.7839322"
-       inkscape:label="#L2041" />
+       inkscape:label="#L2041"
+       style="fill:none" />
     <rect
-       style="fill:none;stroke:none;stroke-width:1"
        id="L2043"
        class="office"
        width="14.315775"
        height="21.308413"
        x="78.789719"
        y="5.7839322"
-       inkscape:label="#L2043" />
+       inkscape:label="#L2043"
+       style="fill:none" />
+    <rect
+       id="rename"
+       class="office"
+       width="15.449703"
+       height="21.308413"
+       x="93.077232"
+       y="5.7839322"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect1"
+       class="office"
+       width="15.449703"
+       height="21.308413"
+       x="108.71595"
+       y="5.7839322"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect2"
+       class="office"
+       width="17.292337"
+       height="21.308413"
+       x="124.06173"
+       y="5.7839322"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect3"
+       class="office"
+       width="19.831398"
+       height="18.602308"
+       x="141.52406"
+       y="5.7839322"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect4"
+       class="office"
+       width="21.267971"
+       height="14.693491"
+       x="140.08749"
+       y="24.509415"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect5"
+       class="office"
+       width="21.267971"
+       height="16.597786"
+       x="140.08749"
+       y="39.159054"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect6"
+       class="office"
+       width="21.267971"
+       height="14.726899"
+       x="140.08749"
+       y="55.846622"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect7"
+       class="office"
+       width="21.267971"
+       height="14.726899"
+       x="140.08749"
+       y="102.05119"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect8"
+       class="office"
+       width="21.267971"
+       height="14.726899"
+       x="140.08749"
+       y="116.86782"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect9"
+       class="office"
+       width="21.267971"
+       height="15.528708"
+       x="140.08749"
+       y="131.68445"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect10"
+       class="office"
+       width="21.267971"
+       height="15.094396"
+       x="140.08749"
+       y="147.46439"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect11"
+       class="office"
+       width="21.267971"
+       height="15.094396"
+       x="140.08749"
+       y="162.54807"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect12"
+       class="office"
+       width="21.267971"
+       height="15.829387"
+       x="140.08749"
+       y="177.68787"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect13"
+       class="office"
+       width="21.267971"
+       height="14.292587"
+       x="140.08749"
+       y="193.51198"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect14"
+       class="office"
+       width="21.267971"
+       height="15.829387"
+       x="140.08749"
+       y="207.84998"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect15"
+       class="office"
+       width="21.267971"
+       height="14.760308"
+       x="140.08749"
+       y="223.73552"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect16"
+       class="office"
+       width="21.267971"
+       height="18.836168"
+       x="140.08749"
+       y="238.55199"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect17"
+       class="office"
+       width="21.267971"
+       height="33.936897"
+       x="140.08749"
+       y="257.60181"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect18"
+       class="office"
+       width="14.185328"
+       height="27.388794"
+       x="125.80016"
+       y="264.1499"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect19"
+       class="office"
+       width="14.185328"
+       height="27.388794"
+       x="111.5127"
+       y="264.1499"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect20"
+       class="office"
+       width="14.185328"
+       height="27.388794"
+       x="97.225197"
+       y="264.1499"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect21"
+       class="office"
+       width="18.72891"
+       height="27.388794"
+       x="78.394104"
+       y="264.1499"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect22"
+       class="office"
+       width="19.864805"
+       height="15.628934"
+       x="112.73824"
+       y="239.1602"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect23"
+       class="office"
+       width="19.864805"
+       height="15.628934"
+       x="112.73824"
+       y="223.68092"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect24"
+       class="office"
+       width="19.864805"
+       height="15.294847"
+       x="112.73824"
+       y="208.66939"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect25"
+       class="office"
+       width="19.864805"
+       height="19.972063"
+       x="112.73824"
+       y="188.64655"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect26"
+       class="office"
+       width="17.526197"
+       height="19.972063"
+       x="95.275764"
+       y="188.64655"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+    <rect
+       id="rect27"
+       class="office"
+       width="18.029007"
+       height="19.972063"
+       x="77.050575"
+       y="188.64655"
+       inkscape:label="#L2rename"
+       style="fill:none" />
+  </g>
 </svg>
