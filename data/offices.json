@@ -1,5 +1,5 @@
 [
- {"office":"101","occupant":"John Smith","department":"HR","svgId":"office101","directions":"Left of reception."},
- {"office":"102","occupant":"Sarah Jones","department":"Finance","svgId":"office102","directions":"Right hallway."},
- {"office":"103","occupant":"Mike Adams","department":"IT","svgId":"office103","directions":"End of corridor."}
+ {"office":"L2041","occupant":"Kyle J","department":"HR","svgId":"L2041","directions":"Left of reception."},
+ {"office":"L2043","occupant":"Rob S","department":"Finance","svgId":"L2043","directions":"Right hallway."},
+ {"office":"L2044","occupant":"Admins","department":"IT","svgId":"L2044","directions":"End of corridor."}
 ]
