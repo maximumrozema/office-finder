@@ -460,6 +460,7 @@
     <rect
        style="fill:none;stroke:none;stroke-width:1.10507"
        id="L2044"
+       class="office"
        width="14.504765"
        height="39.59301"
        x="79.309433"
@@ -468,6 +469,7 @@
     <rect
        style="fill:none;stroke:none;stroke-width:0.874218"
        id="L2041"
+       class="office"
        width="16.867115"
        height="21.308413"
        x="61.96978"
@@ -476,6 +478,7 @@
     <rect
        style="fill:none;stroke:none;stroke-width:0.805391"
        id="L2043"
+       class="office"
        width="14.315775"
        height="21.308413"
        x="78.789719"
