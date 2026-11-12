@@ -458,9 +458,9 @@
        id="path13539"
        inkscape:connector-curvature="0" />
    </g>
-   <style>.office{fill:#cfe8ff;stroke:#333;stroke-width:2}.selected{fill:#ffcc00}</style>
+   <style>.office{fill:none;stroke:none;stroke-width:1}.selected{fill:#eba904}</style>
     <rect
-       style="fill:none;stroke:none;stroke-width:1.10507"
+       style="fill:none;stroke:none;stroke-width:1"
        id="L2044"
        class="office"
        width="14.504765"
@@ -469,7 +469,7 @@
        y="35.549557"
        inkscape:label="#L2044" />
     <rect
-       style="fill:none;stroke:none;stroke-width:0.874218"
+       style="fill:none;stroke:none;stroke-width:1"
        id="L2041"
        class="office"
        width="16.867115"
@@ -478,7 +478,7 @@
        y="5.7839322"
        inkscape:label="#L2041" />
     <rect
-       style="fill:none;stroke:none;stroke-width:0.805391"
+       style="fill:none;stroke:none;stroke-width:1"
        id="L2043"
        class="office"
        width="14.315775"
