@@ -2,7 +2,6 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   <style id="style1">.office{fill:#none;stroke:none;stroke-width:1}.selected{fill:#eba904}</style>
    width="133.64711mm"
    height="287.32721mm"
    viewBox="0 0 133.64711 287.32721"
@@ -56,6 +55,7 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <style id="style1">.office{fill:#none;stroke:none;stroke-width:1}.selected{fill:#eba904}</style>
   <g
      inkscape:groupmode="layer"
      id="layer2"
