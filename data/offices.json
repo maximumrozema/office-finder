@@ -1,5 +1,59 @@
 [
- {"office":"L2041","occupant":"Kyle J","department":"HR","svgId":"L2041","directions":"Left of reception."},
- {"office":"L2043","occupant":"Rob S","department":"Finance","svgId":"L2043","directions":"Right hallway."},
- {"office":"L2044","occupant":"Admins","department":"IT","svgId":"L2044","directions":"End of corridor."}
+ {"office":"L2041","occupant":"Kyle J","department":"Arts","svgId":"L2041","directions":"directions here."},
+ {"office":"L2043","occupant":"Rob S","department":"Christian Studies","svgId":"L2043","directions":"directions here."},
+ {"office":"L2044","occupant":"Admins","department":"Academics","svgId":"L2044","directions":"directions here."}
+ {"office":"L2045","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2047","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2049","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2051","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2053","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2055","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2057","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2063","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2065","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2048","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2050","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2052","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2058","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2060","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
+ {"office":"L2","occupant":"","department":"","svgId":"L2","directions":"directions here."}
 ]
