@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<style>.office{fill:#cfe8ff;stroke:#333;stroke-width:2}.selected{fill:#ffcc00}</style>
+<rect width="800" height="500" fill="white"/>
+<text x="330" y="40" font-size="24">Sample Floorplan</text>
+<rect id="office101" class="office" x="100" y="100" width="150" height="100"/><text x="145" y="155">101</text>
+<rect id="office102" class="office" x="325" y="100" width="150" height="100"/><text x="370" y="155">102</text>
+<rect id="office103" class="office" x="550" y="100" width="150" height="100"/><text x="595" y="155">103</text>
+<rect x="80" y="250" width="640" height="80" fill="#ddd" stroke="#333"/><text x="340" y="295">Main Hallway</text>
+<circle cx="400" cy="420" r="30" fill="#7bd389"/><text x="345" y="470">Reception</text>
+</svg>
