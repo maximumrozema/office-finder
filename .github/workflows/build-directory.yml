@@ -1,0 +1,40 @@
+name: Build Office Directory
+
+on:
+  push:
+    paths:
+      - 'data/offices.csv'
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate JSON
+        run: |
+          python tools/csv2json.py
+
+      - name: Commit Updated JSON
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add data/offices.json
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update office directory"
+            git push
+          fi
