@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="339.66379"
-     inkscape:cy="667.96337"
+     inkscape:zoom="2.8"
+     inkscape:cx="228.39286"
+     inkscape:cy="32.321428"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,7 +55,8 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <style id="style1">.office{fill:#fff;stroke:none;stroke-width:1}.selected{fill:#eba904}</style>
+  <style
+     id="style1">.office{fill:#fff;stroke:none;stroke-width:1}.selected{fill:#eba904}</style>
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -364,8 +365,7 @@
        height="19.088207"
        x="28.609951"
        y="197.24341"
-       inkscape:label="#L2090"
-        />
+       inkscape:label="#L2090" />
     <rect
        id="L2088"
        class="office"
@@ -373,8 +373,7 @@
        height="18.587076"
        x="28.609951"
        y="216.26512"
-       inkscape:label="#L2088"
-        />
+       inkscape:label="#L2088" />
     <rect
        id="L2086"
        class="office"
@@ -382,8 +381,7 @@
        height="14.94553"
        x="28.776997"
        y="235.0074"
-       inkscape:label="#L2086"
-        />
+       inkscape:label="#L2086" />
     <rect
        id="L2101"
        class="office"
@@ -391,8 +389,7 @@
        height="16.048018"
        x="1.7894976"
        y="200.56741"
-       inkscape:label="#L2101"
-        />
+       inkscape:label="#L2101" />
     <rect
        id="L2103"
        class="office"
@@ -400,8 +397,7 @@
        height="14.678261"
        x="1.7894976"
        y="185.75095"
-       inkscape:label="#L2103"
-        />
+       inkscape:label="#L2103" />
     <rect
        id="L2105"
        class="office"
@@ -409,8 +405,7 @@
        height="14.678261"
        x="1.7894976"
        y="171.20169"
-       inkscape:label="#L2105"
-        />
+       inkscape:label="#L2105" />
     <rect
        id="L2107"
        class="office"
@@ -418,8 +413,7 @@
        height="13.909861"
        x="1.7894976"
        y="157.38747"
-       inkscape:label="#L2107"
-        />
+       inkscape:label="#L2107" />
     <rect
        id="L2109"
        class="office"
@@ -427,8 +421,7 @@
        height="13.208279"
        x="1.7894976"
        y="144.29211"
-       inkscape:label="#L2109"
-        />
+       inkscape:label="#L2109" />
     <rect
        id="L2111"
        class="office"
@@ -436,8 +429,7 @@
        height="14.076904"
        x="1.7894976"
        y="130.23865"
-       inkscape:label="#L2111"
-        />
+       inkscape:label="#L2111" />
     <rect
        id="L2113"
        class="office"
@@ -445,8 +437,7 @@
        height="15.613704"
        x="1.7894976"
        y="114.41438"
-       inkscape:label="#L2113"
-        />
+       inkscape:label="#L2113" />
     <rect
        id="L2115"
        class="office"
@@ -454,8 +445,7 @@
        height="15.012347"
        x="1.7894976"
        y="99.140747"
-       inkscape:label="#L2115"
-        />
+       inkscape:label="#L2115" />
     <rect
        id="L2048"
        class="office"
@@ -463,8 +453,7 @@
        height="17.484591"
        x="65.289505"
        y="30.878233"
-       inkscape:label="#L2048"
-        />
+       inkscape:label="#L2048" />
     <rect
        id="L2050"
        class="office"
@@ -472,8 +461,7 @@
        height="17.484591"
        x="85.397858"
        y="30.878233"
-       inkscape:label="#L2050"
-        />
+       inkscape:label="#L2050" />
     <rect
        id="L2052"
        class="office"
@@ -481,8 +469,7 @@
        height="16.549147"
        x="85.397858"
        y="48.217857"
-       inkscape:label="#L2052"
-        />
+       inkscape:label="#L2052" />
     <rect
        id="L2058"
        class="office"
@@ -490,8 +477,7 @@
        height="17.016869"
        x="84.128326"
        y="84.730347"
-       inkscape:label="#L2058"
-        />
+       inkscape:label="#L2058" />
     <rect
        id="L2060"
        class="office"
@@ -499,8 +485,7 @@
        height="14.811895"
        x="84.128326"
        y="101.75198"
-       inkscape:label="#L2060"
-        />
+       inkscape:label="#L2060" />
     <rect
        id="L2062"
        class="office"
@@ -508,8 +493,7 @@
        height="16.281878"
        x="84.128326"
        y="116.56863"
-       inkscape:label="#L2062"
-        />
+       inkscape:label="#L2062" />
     <rect
        id="L2064"
        class="office"
@@ -517,8 +501,7 @@
        height="14.878713"
        x="84.128326"
        y="132.97273"
-       inkscape:label="#L2064"
-        />
+       inkscape:label="#L2064" />
     <rect
        id="L2066"
        class="office"
@@ -526,8 +509,15 @@
        height="15.413252"
        x="84.128326"
        y="148.05109"
-       inkscape:label="#L2066"
-        />
+       inkscape:label="#L2066" />
+    <rect
+       id="L2117"
+       class="office"
+       width="19.96851"
+       height="15.012347"
+       x="1.7894976"
+       y="84.324066"
+       inkscape:label="#L2117" />
   </g>
   <g
      inkscape:label="Floorplan"
@@ -690,7 +680,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="display:inline;fill:#f9f9f9;stroke:#000000;stroke-width:0.587847px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.587847px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 66.62681,27.316794 H 62.009899 V 5.424946"
        id="path4758"
        inkscape:connector-curvature="0"
@@ -926,11 +916,6 @@
        style="display:inline;fill:#000000;fill-opacity:0.482412;stroke:none;stroke-width:0.407001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 29.676824,5.9023768 28.904673,27.316794 H 62.009899 V 5.424946 Z"
        id="path13537"
-       inkscape:connector-curvature="0" />
-    <path
-       style="display:inline;fill:#000000;fill-opacity:0.482412;stroke:none;stroke-width:0.407001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 28.956927,89.040793 h 21.294116 l 0.03092,15.036777 H 29.053069 Z"
-       id="path13539"
        inkscape:connector-curvature="0" />
   </g>
   <g
