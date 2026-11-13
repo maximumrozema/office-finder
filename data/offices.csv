@@ -1,7 +1,9 @@
 Office,Occupant,Department,SvgId
 L2041,Kyle J,Arts,L2041
 L2043,Rob S,Christian Studies,L2043
-L2044,Admins,Academics,L2044
+L2044,Pam Meyers,Academics,L2044
+L2044,Kelly Martin,-,L2044
+L2044,Diane Quapp,-,L2044
 L2045,-,-,L2045
 L2047,Ric Strangway,-,L2047
 L2049,Makayla Hannay,Provost,L2049
@@ -16,11 +18,11 @@ L2050,Randall Heier,-,L2050
 L2052,-,-,L2052
 L2058,Laura Guo,-,L2058
 L2060,Alice Kung,-,L2060
-L2062,Aaron Peters,History/Humanities,L2062
+L2062,Aaron Peters,-,L2062
 L2064,-,-,L2064
 L2066,Sophia Isfeld,-,L2066
 L2067,Chris Wang,-,L2067
-L2069,Joseph Rosso,Social Sciences,L2069
+L2069,Joseph Rosso,-,L2069
 L2071,Mark Buchanan,-,L2071
 L2073,Matthew Morris,-,L2073
 L2075,Monetta Bailey,-,L2075
@@ -31,7 +33,7 @@ L2085,Darren Dyck,-,L2085
 L2087,Christina Conroy,-,L2087
 L2089,Colin Toffelmire,-,L2089
 L2091,Arts Sessional Office,-,L2091
-L2072,Derek Cook,Poverty Institute,L2072
+L2072,Derek Cook,Canadian Poverty Institute,L2072
 L2074,Kirsten Shmaus,-,L2074
 L2076,-,-,L2076
 L2078,Semenary Sessional Office,-,L2078
