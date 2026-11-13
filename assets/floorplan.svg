@@ -55,7 +55,7 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <style id="style1">.office{fill:#none;stroke:none;stroke-width:1}.selected{fill:#eba904}</style>
+  <style id="style1">.office{fill:#fff;stroke:none;stroke-width:1}.selected{fill:#eba904}</style>
   <g
      inkscape:groupmode="layer"
      id="layer2"
