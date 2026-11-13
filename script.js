@@ -30,8 +30,13 @@ function render(items) {
     sortedItems.forEach(o => {
         const li = document.createElement("li");
 
-        li.textContent =
+        if (currentSort === "occupant") {
+          li.textContent =
             `${o.occupant} (Office ${o.office})`;
+        } else {
+            li.textContent =
+                `Office ${o.office} (${o.occupant})`;
+        }
 
         li.onclick = () => showOffice(o);
 
