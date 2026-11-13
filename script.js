@@ -11,7 +11,9 @@ fetch("data/offices.json").then(r => r.json()).then(data => {
 function render(items) {
     list.innerHTML = "";
 
-    const sortedItems = [...items];
+    const sortedItems = items.filter(o =>
+        o.occupant.trim() !== "-"
+    );
 
     if (currentSort === "occupant") {
         sortedItems.sort((a, b) =>
