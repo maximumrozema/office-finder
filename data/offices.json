@@ -13,8 +13,20 @@
   },
   {
     "office": "L2044",
-    "occupant": "Admins",
+    "occupant": "Pam Meyers",
     "department": "Academics",
+    "svgId": "L2044"
+  },
+  {
+    "office": "L2044",
+    "occupant": "Kelly Martin",
+    "department": "-",
+    "svgId": "L2044"
+  },
+  {
+    "office": "L2044",
+    "occupant": "Diane Quapp",
+    "department": "-",
     "svgId": "L2044"
   },
   {
@@ -104,7 +116,7 @@
   {
     "office": "L2062",
     "occupant": "Aaron Peters",
-    "department": "History/Humanities",
+    "department": "-",
     "svgId": "L2062"
   },
   {
@@ -128,7 +140,7 @@
   {
     "office": "L2069",
     "occupant": "Joseph Rosso",
-    "department": "Social Sciences",
+    "department": "-",
     "svgId": "L2069"
   },
   {
@@ -194,7 +206,7 @@
   {
     "office": "L2072",
     "occupant": "Derek Cook",
-    "department": "Poverty Institute",
+    "department": "Canadian Poverty Institute",
     "svgId": "L2072"
   },
   {
