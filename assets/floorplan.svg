@@ -27,9 +27,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
      inkscape:cx="228.39286"
-     inkscape:cy="32.321428"
+     inkscape:cy="406.96429"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -523,8 +523,7 @@
      inkscape:label="Floorplan"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-28.56613,-4.7917461)"
-     sodipodi:insensitive="true">
+     transform="translate(-28.56613,-4.7917461)">
     <rect
        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.22127;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect190"
@@ -651,7 +650,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="display:inline;fill:#f9f9f9;stroke:#000000;stroke-width:0.587847px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.587847px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 161.72152,24.377569 h -19.09448 l -2.51935,2.939225"
        id="path4748"
        inkscape:connector-curvature="0"
@@ -893,7 +892,7 @@
        id="path13527"
        inkscape:connector-curvature="0" />
     <path
-       style="display:inline;fill:#000000;fill-opacity:0.482412;stroke:none;stroke-width:0.407001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:inline;fill:#ececec;fill-opacity:0.482412;stroke:none;stroke-width:0.407001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 58.001773,89.524088 -1.39e-4,51.365052 H 112.63265 V 89.524103 Z"
        id="path13529"
        inkscape:connector-curvature="0" />
@@ -966,5 +965,39 @@
          style="fill:#000000;stroke-width:1.102"
          x="121.53677"
          y="272.16885">L2083</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;stroke-width:1.102"
+       x="57.282295"
+       y="112.82588"
+       id="text1"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke-width:1.102"
+         x="57.282295"
+         y="112.82588"
+         id="tspan2">IT Dept.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="You Are Here">
+    <path
+       sodipodi:type="star"
+       style="display:inline;fill:#d40000;fill-opacity:1;stroke:#000000;stroke-width:0.382749;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path4866"
+       sodipodi:sides="5"
+       sodipodi:cx="212.06587"
+       sodipodi:cy="145.93858"
+       sodipodi:r1="3.6263969"
+       sodipodi:r2="1.8131984"
+       sodipodi:arg1="1.3089969"
+       sodipodi:arg2="1.9373155"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 213.00445,149.44141 -1.58837,-1.81006 -2.39156,0.28231 1.23064,-2.06997 -1.00753,-2.18727 2.34895,0.53075 1.76888,-1.63412 0.22109,2.39799 2.10075,1.17733 -2.21231,0.9513 z"
+       inkscape:transform-center-x="-0.058638467"
+       inkscape:transform-center-y="-0.29002924"
+       transform="rotate(-90,100.2203,190.24674)" />
   </g>
 </svg>
