@@ -1,52 +1,302 @@
 [
- {"office":"L2041","occupant":"Kyle J","department":"Arts","svgId":"L2041","directions":"directions here."},
- {"office":"L2043","occupant":"Rob S","department":"Christian Studies","svgId":"L2043","directions":"directions here."},
- {"office":"L2044","occupant":"Admins","department":"Academics","svgId":"L2044","directions":"directions here."},
- {"office":"L2045","occupant":"-","department":"-","svgId":"L2045","directions":"directions here."},
- {"office":"L2047","occupant":"Ric Strangway","department":"-","svgId":"L2047","directions":"directions here."},
- {"office":"L2049","occupant":"Makayla Hannay","department":"Provost","svgId":"L2049","directions":"directions here."},
- {"office":"L2051","occupant":"Pam Nordstrom","department":"Provost","svgId":"L2","directions":"directions here."},
- {"office":"L2053","occupant":"Stuart Williams","department":"-","svgId":"L2053","directions":"directions here."},
- {"office":"L2055","occupant":"Ryan Wilkinson","department":"-","svgId":"L2055","directions":"directions here."},
- {"office":"L2057","occupant":"Jim Cresswell","department":"","svgId":"L2057","directions":"directions here."},
- {"office":"L2063","occupant":"Hubert Chau","department":"-","svgId":"L2063","directions":"directions here."},
- {"office":"L2065","occupant":"Jonathan Goossen","department":"-","svgId":"L2065","directions":"directions here."},
- {"office":"L2048","occupant":"Lauren Umbach","department":"-","svgId":"L2048","directions":"directions here."},
- {"office":"L2050","occupant":"Randall Heier","department":"-","svgId":"L2050","directions":"directions here."},
- {"office":"L2052","occupant":"-","department":"-","svgId":"L2052","directions":"directions here."},
- {"office":"L2058","occupant":"Lauga Guo","department":"-","svgId":"L2058","directions":"directions here."},
- {"office":"L2060","occupant":"Alice Kung","department":"-","svgId":"L2060","directions":"directions here."},
- {"office":"L2062","occupant":"Aaron Peters","department":"-","svgId":"L2062","directions":"directions here."},
- {"office":"L2064","occupant":"-","department":"-","svgId":"L2064","directions":"directions here."},
- {"office":"L2066","occupant":"Sophia Isfeld","department":"-","svgId":"L2066","directions":"directions here."},
- {"office":"L2067","occupant":"Chris Wang","department":"-","svgId":"L2067","directions":"directions here."},
- {"office":"L2069","occupant":"Joseph Rosso","department":"-","svgId":"L2069","directions":"directions here."},
- {"office":"L2071","occupant":"Mark Buchanan","department":"-","svgId":"L2071","directions":"directions here."},
- {"office":"L2073","occupant":"Matthew Morris","department":"-","svgId":"L2073","directions":"directions here."},
- {"office":"L2075","occupant":"Monetta Bailey","department":"-","svgId":"L2075","directions":"directions here."},
- {"office":"L2077","occupant":"Beth Stovell","department":"-","svgId":"L2077","directions":"directions here."},
- {"office":"L2079","occupant":"Jonanthan Lo","department":"-","svgId":"L2079","directions":"directions here."},
- {"office":"L2081","occupant":"Arch Wong","department":"-","svgId":"L2081","directions":"directions here."},
- {"office":"L2085","occupant":"Darren Dyck","department":"-","svgId":"L2085","directions":"directions here."},
- {"office":"L2087","occupant":"Christina Conroy","department":"-","svgId":"L2087","directions":"directions here."},
- {"office":"L2089","occupant":"Colin Toffelmire","department":"-","svgId":"L2089","directions":"directions here."},
- {"office":"L2091","occupant":"Arts Sessional Office","department":"-","svgId":"L2091","directions":"directions here."},
- {"office":"L2072","occupant":"Derek Cook","department":"Poverty Institute","svgId":"L2072","directions":"directions here."},
- {"office":"L2074","occupant":"Kirsten Shmaus","department":"-","svgId":"L2074","directions":"directions here."},
- {"office":"L2076","occupant":"-","department":"-","svgId":"L2076","directions":"directions here."},
- {"office":"L2078","occupant":"Semenary Sessional Office","department":"-","svgId":"L2078","directions":"directions here."},
- {"office":"L2086","occupant":"-","department":"-","svgId":"L2086","directions":"directions here."},
- {"office":"L2088","occupant":"-","department":"-","svgId":"L2088","directions":"directions here."},
- {"office":"L2090","occupant":"-","department":"-","svgId":"L2090","directions":"directions here."},
- {"office":"L2096","occupant":"Kim McLachlan","department":"-","svgId":"L2096","directions":"directions here."},
- {"office":"L2098","occupant":"Counceling Office","department":"-","svgId":"L2098","directions":"directions here."},
- {"office":"L2101","occupant":"Alex Sanderson","department":"-","svgId":"L2101","directions":"directions here."},
- {"office":"L2103","occupant":"Ken Nickel","department":"-","svgId":"L2103","directions":"directions here."},
- {"office":"L2105","occupant":"Joel Thiessen","department":"-","svgId":"L2105","directions":"directions here."},
- {"office":"L2107","occupant":"-","department":"-","svgId":"L2107","directions":"directions here."},
- {"office":"L2109","occupant":"Jemmy Suthandiradas","department":"-","svgId":"L2109","directions":"directions here."},
- {"office":"L2111","occupant":"Stephen Jeans","department":"-","svgId":"L2111","directions":"directions here."},
- {"office":"L2113","occupant":"Adenike Mopa-Egbunu","department":"-","svgId":"L2113","directions":"directions here."},
- {"office":"L2115","occupant":"John Weist","department":"-","svgId":"L2115","directions":"directions here."},
- {"office":"L2117","occupant":"Student Council","department":"-","svgId":"L2115","directions":"directions here."}
+  {
+    "office": "L2041",
+    "occupant": "Kyle J",
+    "department": "Arts",
+    "svgId": "L2041"
+  },
+  {
+    "office": "L2043",
+    "occupant": "Rob S",
+    "department": "Christian Studies",
+    "svgId": "L2043"
+  },
+  {
+    "office": "L2044",
+    "occupant": "Admins",
+    "department": "Academics",
+    "svgId": "L2044"
+  },
+  {
+    "office": "L2045",
+    "occupant": "-",
+    "department": "-",
+    "svgId": "L2045"
+  },
+  {
+    "office": "L2047",
+    "occupant": "Ric Strangway",
+    "department": "-",
+    "svgId": "L2047"
+  },
+  {
+    "office": "L2049",
+    "occupant": "Makayla Hannay",
+    "department": "Provost",
+    "svgId": "L2049"
+  },
+  {
+    "office": "L2051",
+    "occupant": "Pam Nordstrom",
+    "department": "Provost",
+    "svgId": "L2051"
+  },
+  {
+    "office": "L2053",
+    "occupant": "Stuart Williams",
+    "department": "-",
+    "svgId": "L2053"
+  },
+  {
+    "office": "L2055",
+    "occupant": "Ryan Wilkinson",
+    "department": "-",
+    "svgId": "L2055"
+  },
+  {
+    "office": "L2057",
+    "occupant": "Jim Cresswell",
+    "department": "",
+    "svgId": "L2057"
+  },
+  {
+    "office": "L2063",
+    "occupant": "Hubert Chau",
+    "department": "-",
+    "svgId": "L2063"
+  },
+  {
+    "office": "L2065",
+    "occupant": "Jonathan Goossen",
+    "department": "-",
+    "svgId": "L2065"
+  },
+  {
+    "office": "L2048",
+    "occupant": "Lauren Umbach",
+    "department": "-",
+    "svgId": "L2048"
+  },
+  {
+    "office": "L2050",
+    "occupant": "Randall Heier",
+    "department": "-",
+    "svgId": "L2050"
+  },
+  {
+    "office": "L2052",
+    "occupant": "-",
+    "department": "-",
+    "svgId": "L2052"
+  },
+  {
+    "office": "L2058",
+    "occupant": "Laura Guo",
+    "department": "-",
+    "svgId": "L2058"
+  },
+  {
+    "office": "L2060",
+    "occupant": "Alice Kung",
+    "department": "-",
+    "svgId": "L2060"
+  },
+  {
+    "office": "L2062",
+    "occupant": "Aaron Peters",
+    "department": "History/Humanities",
+    "svgId": "L2062"
+  },
+  {
+    "office": "L2064",
+    "occupant": "-",
+    "department": "-",
+    "svgId": "L2064"
+  },
+  {
+    "office": "L2066",
+    "occupant": "Sophia Isfeld",
+    "department": "-",
+    "svgId": "L2066"
+  },
+  {
+    "office": "L2067",
+    "occupant": "Chris Wang",
+    "department": "-",
+    "svgId": "L2067"
+  },
+  {
+    "office": "L2069",
+    "occupant": "Joseph Rosso",
+    "department": "Social Sciences",
+    "svgId": "L2069"
+  },
+  {
+    "office": "L2071",
+    "occupant": "Mark Buchanan",
+    "department": "-",
+    "svgId": "L2071"
+  },
+  {
+    "office": "L2073",
+    "occupant": "Matthew Morris",
+    "department": "-",
+    "svgId": "L2073"
+  },
+  {
+    "office": "L2075",
+    "occupant": "Monetta Bailey",
+    "department": "-",
+    "svgId": "L2075"
+  },
+  {
+    "office": "L2077",
+    "occupant": "Beth Stovell",
+    "department": "-",
+    "svgId": "L2077"
+  },
+  {
+    "office": "L2079",
+    "occupant": "Jonanthan Lo",
+    "department": "-",
+    "svgId": "L2079"
+  },
+  {
+    "office": "L2081",
+    "occupant": "Arch Wong",
+    "department": "-",
+    "svgId": "L2081"
+  },
+  {
+    "office": "L2085",
+    "occupant": "Darren Dyck",
+    "department": "-",
+    "svgId": "L2085"
+  },
+  {
+    "office": "L2087",
+    "occupant": "Christina Conroy",
+    "department": "-",
+    "svgId": "L2087"
+  },
+  {
+    "office": "L2089",
+    "occupant": "Colin Toffelmire",
+    "department": "-",
+    "svgId": "L2089"
+  },
+  {
+    "office": "L2091",
+    "occupant": "Arts Sessional Office",
+    "department": "-",
+    "svgId": "L2091"
+  },
+  {
+    "office": "L2072",
+    "occupant": "Derek Cook",
+    "department": "Poverty Institute",
+    "svgId": "L2072"
+  },
+  {
+    "office": "L2074",
+    "occupant": "Kirsten Shmaus",
+    "department": "-",
+    "svgId": "L2074"
+  },
+  {
+    "office": "L2076",
+    "occupant": "-",
+    "department": "-",
+    "svgId": "L2076"
+  },
+  {
+    "office": "L2078",
+    "occupant": "Semenary Sessional Office",
+    "department": "-",
+    "svgId": "L2078"
+  },
+  {
+    "office": "L2086",
+    "occupant": "-",
+    "department": "-",
+    "svgId": "L2086"
+  },
+  {
+    "office": "L2088",
+    "occupant": "-",
+    "department": "-",
+    "svgId": "L2088"
+  },
+  {
+    "office": "L2090",
+    "occupant": "-",
+    "department": "-",
+    "svgId": "L2090"
+  },
+  {
+    "office": "L2096",
+    "occupant": "Kim McLachlan",
+    "department": "-",
+    "svgId": "L2096"
+  },
+  {
+    "office": "L2098",
+    "occupant": "Counceling Office",
+    "department": "-",
+    "svgId": "L2098"
+  },
+  {
+    "office": "L2101",
+    "occupant": "Alex Sanderson",
+    "department": "-",
+    "svgId": "L2101"
+  },
+  {
+    "office": "L2103",
+    "occupant": "Ken Nickel",
+    "department": "-",
+    "svgId": "L2103"
+  },
+  {
+    "office": "L2105",
+    "occupant": "Joel Thiessen",
+    "department": "-",
+    "svgId": "L2105"
+  },
+  {
+    "office": "L2107",
+    "occupant": "-",
+    "department": "-",
+    "svgId": "L2107"
+  },
+  {
+    "office": "L2109",
+    "occupant": "Jemmy Suthandiradas",
+    "department": "-",
+    "svgId": "L2109"
+  },
+  {
+    "office": "L2111",
+    "occupant": "Stephen Jeans",
+    "department": "-",
+    "svgId": "L2111"
+  },
+  {
+    "office": "L2113",
+    "occupant": "Adenike Mopa-Egbunu",
+    "department": "-",
+    "svgId": "L2113"
+  },
+  {
+    "office": "L2115",
+    "occupant": "John Weist",
+    "department": "-",
+    "svgId": "L2115"
+  },
+  {
+    "office": "L2117",
+    "occupant": "Student Council",
+    "department": "-",
+    "svgId": "L2115"
+  }
 ]
