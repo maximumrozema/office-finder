@@ -1,7 +1,6 @@
 body{font-family:Arial,sans-serif;margin:0}
   .container{display:flex;height:100vh}
-  .sidebar{background-color:#848484;width:300px;padding:1rem;border-right:1px solid #ccc;overflow:auto}
-  .sidebarheader{color:#eba904}
+  .sidebar{background-color:#848484;color:#eba904;width:300px;padding:1rem;border-right:1px solid #ccc;overflow:auto}
   .content{flex:1;padding:1rem}#directory{list-style:none;padding:0}
     #directory li{padding:.5rem;cursor:pointer}
     #directory li:hover{background:#eee}
