@@ -3,7 +3,7 @@ body{font-family:Arial,sans-serif;margin:0}
   .sidebar{background-color:#848484;color:#fff;font-weight: bold;width:300px;padding:1rem;border-right:1px solid #ccc;overflow:auto}
   .content{flex:1;padding:1rem}#directory{list-style:none;padding:0}
     #directory li{padding:.5rem;cursor:pointer}
-    #directory li:hover{background:#eee}
+    #directory li:hover{background:#eee;color:#000}
       object{width:100%;height:70vh;border:1px solid #ccc}
   .sort-container {margin: 1rem 0;}
   .sort-container label {display: block;margin-bottom: 0.25rem;font-weight: bold;}
