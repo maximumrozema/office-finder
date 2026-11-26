@@ -29,7 +29,7 @@
      inkscape:cx="228.39286"
      inkscape:cy="406.96429"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer3"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -976,6 +976,17 @@
          x="57.282295"
          y="112.82588"
          id="tspan2">IT Dept.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1.102"
+       x="69.226357"
+       y="79.828575"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="fill:#000000;stroke:none;stroke-width:1.102"
+         x="69.226357"
+         y="79.828575">You are here</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
